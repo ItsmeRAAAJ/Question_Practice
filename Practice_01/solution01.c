@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+    // Calculate area of rectangle
     float len,wid;
 
     printf("Enter the Length of the Rectangle:");
